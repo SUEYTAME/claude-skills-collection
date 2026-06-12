@@ -1,0 +1,8 @@
+﻿{
+    "name":  "engineering-lifecycle",
+    "description":  "24 software-engineering lifecycle skills (spec, plan, build, test, review, ship) from addyosmani/agent-skills.",
+    "version":  "1.0.0",
+    "author":  {
+                   "name":  "SUEYTAME"
+               }
+}

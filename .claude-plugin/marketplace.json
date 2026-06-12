@@ -1,0 +1,46 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "my-skills-collection",
+  "description": "SUEYTAME's personal collection of 119 AI skills across engineering, product management, frontend design, decision-making, and more.",
+  "owner": {
+    "name": "SUEYTAME"
+  },
+  "plugins": [
+    {
+      "name": "engineering-lifecycle",
+      "description": "24 software-engineering lifecycle skills (spec, plan, build, test, review, ship) from addyosmani/agent-skills.",
+      "source": "./plugins/engineering-lifecycle",
+      "category": "development"
+    },
+    {
+      "name": "product-management",
+      "description": "68 product-management skills (discovery, strategy, execution, GTM, research, growth, analytics) from phuryn/pm-skills.",
+      "source": "./plugins/product-management",
+      "category": "productivity"
+    },
+    {
+      "name": "frontend-design",
+      "description": "13 anti-slop frontend design + image-generation skills from Leonxlnx/taste-skill.",
+      "source": "./plugins/frontend-design",
+      "category": "design"
+    },
+    {
+      "name": "sparc-and-extras",
+      "description": "12 standalone-safe skills including the SPARC methodology, from ruvnet/ruflo.",
+      "source": "./plugins/sparc-and-extras",
+      "category": "development"
+    },
+    {
+      "name": "decision-tools",
+      "description": "LLM Council - run any decision through 5 advisors who peer-review and synthesize a verdict.",
+      "source": "./plugins/decision-tools",
+      "category": "productivity"
+    },
+    {
+      "name": "openhuman-shipping",
+      "description": "ship-and-babysit PR shipping workflow skill from tinyhumansai/openhuman.",
+      "source": "./plugins/openhuman-shipping",
+      "category": "development"
+    }
+  ]
+}
