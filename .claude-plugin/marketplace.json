@@ -41,6 +41,12 @@
       "description": "ship-and-babysit PR shipping workflow skill from tinyhumansai/openhuman.",
       "source": "./plugins/openhuman-shipping",
       "category": "development"
+    },
+    {
+      "name": "superpowers",
+      "description": "14 software-development methodology skills (brainstorming, TDD, systematic debugging, subagent-driven development, writing plans/skills) from obra/superpowers.",
+      "source": "./plugins/superpowers",
+      "category": "development"
     }
   ]
 }

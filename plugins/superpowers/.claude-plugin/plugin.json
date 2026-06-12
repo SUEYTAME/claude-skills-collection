@@ -1,0 +1,8 @@
+{
+    "name":  "superpowers",
+    "description":  "14 software-development methodology skills (brainstorming, TDD, systematic debugging, subagent-driven development, writing plans/skills) from obra/superpowers.",
+    "version":  "1.0.0",
+    "author":  {
+                   "name":  "SUEYTAME"
+               }
+}

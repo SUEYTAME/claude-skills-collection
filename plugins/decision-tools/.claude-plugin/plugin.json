@@ -1,4 +1,4 @@
-﻿{
+{
     "name":  "decision-tools",
     "description":  "LLM Council - 5 advisors, peer review, one verdict (Karpathy method).",
     "version":  "1.0.0",
