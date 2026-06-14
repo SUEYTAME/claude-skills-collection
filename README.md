@@ -1,6 +1,6 @@
 # My Skills Collection
 
-A personal Claude Code / Cowork **plugin marketplace** bundling 119 curated AI skills into 6 installable plugins.
+A personal Claude Code / Cowork **plugin marketplace** bundling 133 curated AI skills and 14 development agents into 8 installable plugins.
 
 ## Install
 
@@ -18,14 +18,29 @@ A personal Claude Code / Cowork **plugin marketplace** bundling 119 curated AI s
 
 ## What's inside
 
-| Plugin | Skills | Source |
+| Plugin | Contents | Source |
 |---|---|---|
-| **engineering-lifecycle** | 24 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
-| **product-management** | 68 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) |
-| **frontend-design** | 13 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) |
-| **sparc-and-extras** | 12 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
-| **decision-tools** | 1 | [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) |
-| **openhuman-shipping** | 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) |
+| **engineering-lifecycle** | 24 skills | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) |
+| **product-management** | 68 skills | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) |
+| **frontend-design** | 13 skills | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) |
+| **sparc-and-extras** | 12 skills | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) |
+| **superpowers** | 14 skills | [obra/superpowers](https://github.com/obra/superpowers) |
+| **decision-tools** | 1 skill | [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) |
+| **openhuman-shipping** | 1 skill | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) |
+| **dev-agents** | 14 agents | SUEYTAME (personal subagents) |
+
+### dev-agents
+
+Installable subagents that Claude Code can dispatch automatically or on request:
+
+- **Pipeline:** `architectobot` (planning), `codecrusher` (implementation), `qualityqueen` (QA), `taskmaster` (orchestration)
+- **Platform:** `build-agent`, `deploy-agent`, `dev-agent`, `mobile-agent`, `test-agent`
+- **PR workflow:** `pr-manager`, `pr-manager-lite`, `pr-reviewer`
+- **Other:** `designguru` (UI/UX), `memory-keeper` (session learnings)
+
+```
+/plugin install dev-agents@my-skills-collection
+```
 
 ## Credits & licenses
 

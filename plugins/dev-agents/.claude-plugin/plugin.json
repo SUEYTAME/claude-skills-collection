@@ -1,0 +1,8 @@
+{
+    "name": "dev-agents",
+    "description": "14 specialized development subagents: an end-to-end pipeline (architectobot, codecrusher, qualityqueen, taskmaster), platform agents (build, deploy, dev, mobile, test), PR workflow agents (pr-manager, pr-manager-lite, pr-reviewer), plus designguru and memory-keeper.",
+    "version": "1.0.0",
+    "author": {
+        "name": "SUEYTAME"
+    }
+}

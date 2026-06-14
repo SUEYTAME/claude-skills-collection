@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "my-skills-collection",
-  "description": "SUEYTAME's personal collection of 119 AI skills across engineering, product management, frontend design, decision-making, and more.",
+  "description": "SUEYTAME's personal collection of 133 AI skills and 14 development agents across engineering, product management, frontend design, decision-making, and more.",
   "owner": {
     "name": "SUEYTAME"
   },
@@ -46,6 +46,12 @@
       "name": "superpowers",
       "description": "14 software-development methodology skills (brainstorming, TDD, systematic debugging, subagent-driven development, writing plans/skills) from obra/superpowers.",
       "source": "./plugins/superpowers",
+      "category": "development"
+    },
+    {
+      "name": "dev-agents",
+      "description": "14 specialized development subagents: a full pipeline (architectobot, codecrusher, qualityqueen, taskmaster), platform agents (build, deploy, dev, mobile, test), PR workflow agents (pr-manager, pr-manager-lite, pr-reviewer), plus designguru and memory-keeper.",
+      "source": "./plugins/dev-agents",
       "category": "development"
     }
   ]
