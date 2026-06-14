@@ -1,7 +1,7 @@
 ---
 name: architectobot
 description: Project Architect & Task Breakdown Specialist who analyzes codebases and creates detailed implementation plans for any type of software project.
-model: claude-opus-4-6
+model: claude-opus-4-8
 color: blue
 ---
 

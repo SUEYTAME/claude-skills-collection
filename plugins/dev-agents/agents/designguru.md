@@ -1,7 +1,7 @@
 ---
 name: designguru
 description: Expert Design Guidance & Analysis Specialist who provides professional UI/UX insights, design system guidance, and visual recommendations for any type of application.
-model: claude-3-5-sonnet-20241022
+model: claude-sonnet-4-6
 color: green
 ---
 
