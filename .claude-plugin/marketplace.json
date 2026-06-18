@@ -53,6 +53,12 @@
       "description": "14 specialized development subagents: a full pipeline (architectobot, codecrusher, qualityqueen, taskmaster), platform agents (build, deploy, dev, mobile, test), PR workflow agents (pr-manager, pr-manager-lite, pr-reviewer), plus designguru and memory-keeper.",
       "source": "./plugins/dev-agents",
       "category": "development"
+    },
+    {
+      "name": "browser-automation",
+      "description": "agent-browser skill (vercel-labs) for driving Chrome - navigation, forms, screenshots, scraping, web testing. Requires the agent-browser CLI installed (npm i -g agent-browser).",
+      "source": "./plugins/browser-automation",
+      "category": "development"
     }
   ]
 }
