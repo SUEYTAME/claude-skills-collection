@@ -1,0 +1,6 @@
+{
+  "name": "browser-automation",
+  "description": "agent-browser skill (vercel-labs) - drives Chrome for navigation, forms, screenshots, scraping, and web testing. REQUIRES the agent-browser CLI installed: npm i -g agent-browser && agent-browser install.",
+  "version": "1.0.0",
+  "author": { "name": "SUEYTAME" }
+}
