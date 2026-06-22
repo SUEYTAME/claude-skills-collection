@@ -1,6 +1,6 @@
 # My Skills Collection
 
-A personal Claude Code / Cowork **plugin marketplace** bundling 133 curated AI skills and 14 development agents into 8 installable plugins.
+A personal Claude Code / Cowork **plugin marketplace** bundling 140 curated AI skills and 14 development agents into 10 installable plugins.
 
 ## Install
 
@@ -27,6 +27,8 @@ A personal Claude Code / Cowork **plugin marketplace** bundling 133 curated AI s
 | **superpowers** | 14 skills | [obra/superpowers](https://github.com/obra/superpowers) |
 | **decision-tools** | 1 skill | [aiwithremy/claude-skills-llm-council](https://github.com/aiwithremy/claude-skills-llm-council) |
 | **openhuman-shipping** | 1 skill | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) |
+| **browser-automation** | 1 skill | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) |
+| **code-minimalism** | 6 skills | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
 | **dev-agents** | 14 agents | SUEYTAME (personal subagents) |
 
 ### dev-agents
