@@ -1,0 +1,6 @@
+{
+  "name": "code-minimalism",
+  "description": "ponytail (DietrichGebert) - 6 skills that force the laziest solution that works: delete code, prefer stdlib/native over dependencies, audit a repo for over-engineering, track deferred shortcuts.",
+  "version": "1.0.0",
+  "author": { "name": "SUEYTAME" }
+}

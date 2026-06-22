@@ -59,6 +59,12 @@
       "description": "agent-browser skill (vercel-labs) for driving Chrome - navigation, forms, screenshots, scraping, web testing. Requires the agent-browser CLI installed (npm i -g agent-browser).",
       "source": "./plugins/browser-automation",
       "category": "development"
+    },
+    {
+      "name": "code-minimalism",
+      "description": "ponytail (DietrichGebert) - 6 skills for aggressive code minimalism: laziest-working solution, over-engineering review/audit, deferred-shortcut debt ledger.",
+      "source": "./plugins/code-minimalism",
+      "category": "development"
     }
   ]
 }
