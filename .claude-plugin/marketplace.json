@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "my-skills-collection",
-  "description": "SUEYTAME's personal collection of 133 AI skills and 14 development agents across engineering, product management, frontend design, decision-making, and more.",
+  "description": "SUEYTAME's personal collection of 134 AI skills and 14 development agents across engineering, product management, frontend design, decision-making, writing, and more.",
   "owner": {
     "name": "SUEYTAME"
   },
@@ -65,6 +65,12 @@
       "description": "ponytail (DietrichGebert) - 6 skills for aggressive code minimalism: laziest-working solution, over-engineering review/audit, deferred-shortcut debt ledger.",
       "source": "./plugins/code-minimalism",
       "category": "development"
+    },
+    {
+      "name": "writing-editing",
+      "description": "stop-slop (hardikpandya) - removes predictable AI writing patterns from prose and scores the result.",
+      "source": "./plugins/writing-editing",
+      "category": "productivity"
     }
   ]
 }

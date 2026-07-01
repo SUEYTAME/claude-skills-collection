@@ -1,0 +1,8 @@
+{
+    "name":  "writing-editing",
+    "description":  "stop-slop - removes predictable AI writing patterns from prose (filler, passive voice, formulaic contrasts) and scores the result.",
+    "version":  "1.0.0",
+    "author":  {
+                   "name":  "SUEYTAME"
+               }
+}
