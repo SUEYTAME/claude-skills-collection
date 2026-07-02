@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "my-skills-collection",
-  "description": "SUEYTAME's personal collection of 134 AI skills and 14 development agents across engineering, product management, frontend design, decision-making, writing, and more.",
+  "description": "SUEYTAME's personal collection of 951 AI skills and 14 development agents across engineering, product management, frontend design, decision-making, writing, cybersecurity, and more.",
   "owner": {
     "name": "SUEYTAME"
   },
@@ -71,6 +71,12 @@
       "description": "stop-slop (hardikpandya) - removes predictable AI writing patterns from prose and scores the result.",
       "source": "./plugins/writing-editing",
       "category": "productivity"
+    },
+    {
+      "name": "cybersecurity",
+      "description": "817 cybersecurity skills (pentest, DFIR, threat-intel, cloud, malware, incident response) mapped to 6 frameworks (MITRE ATT&CK, NIST CSF, ATLAS, D3FEND, AI RMF, F3), from mukul975/Anthropic-Cybersecurity-Skills. Authorized/lawful use only - includes dual-use offensive techniques.",
+      "source": "./plugins/cybersecurity",
+      "category": "security"
     }
   ]
 }

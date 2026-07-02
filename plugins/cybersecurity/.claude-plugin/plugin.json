@@ -1,0 +1,8 @@
+{
+    "name":  "cybersecurity",
+    "description":  "817 cybersecurity skills (pentest, DFIR, threat-intel, cloud, malware, incident response) mapped to MITRE ATT&CK, NIST CSF 2.0, ATLAS, D3FEND, NIST AI RMF, MITRE F3. From mukul975/Anthropic-Cybersecurity-Skills (Apache-2.0). Authorized/lawful use only - includes dual-use offensive techniques.",
+    "version":  "1.3.0",
+    "author":  {
+                   "name":  "SUEYTAME"
+               }
+}
