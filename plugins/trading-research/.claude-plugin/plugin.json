@@ -1,0 +1,8 @@
+{
+    "name":  "trading-research",
+    "description":  "mine-chat - two-tier trading-chat mining: cheap extraction agent (Haiku) scrapes Telegram/WhatsApp exports, main model codifies and backtests the strategy.",
+    "version":  "1.0.0",
+    "author":  {
+                   "name":  "SUEYTAME"
+               }
+}

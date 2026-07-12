@@ -77,6 +77,12 @@
       "description": "817 cybersecurity skills (pentest, DFIR, threat-intel, cloud, malware, incident response) mapped to 6 frameworks (MITRE ATT&CK, NIST CSF, ATLAS, D3FEND, AI RMF, F3), from mukul975/Anthropic-Cybersecurity-Skills. Authorized/lawful use only - includes dual-use offensive techniques.",
       "source": "./plugins/cybersecurity",
       "category": "security"
+    },
+    {
+      "name": "trading-research",
+      "description": "Two-tier trading-chat mining (mine-chat): Haiku extraction agent scrapes chat exports, main model codifies and backtests strategies into a strategy vault.",
+      "source": "./plugins/trading-research",
+      "category": "productivity"
     }
   ]
 }
