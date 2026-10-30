@@ -29,6 +29,7 @@ A personal Claude Code / Cowork **plugin marketplace** bundling 140 curated AI s
 | **openhuman-shipping** | 1 skill | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) |
 | **browser-automation** | 1 skill | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) |
 | **code-minimalism** | 6 skills | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) |
+| **extras** | 4 skills | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (agent-reach, MIT) · [openai/skills](https://github.com/openai/skills) (hatch-pet, Apache-2.0) · SUEYTAME (intec-formato-academico, capacitate-course-kb) |
 | **dev-agents** | 14 agents | SUEYTAME (personal subagents) |
 
 ### dev-agents

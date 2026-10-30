@@ -1,0 +1,8 @@
+{
+    "name":  "extras",
+    "description":  "agent-reach (internet/social research), hatch-pet (Codex animated pets), intec-formato-academico (INTEC academic document format) and capacitate-course-kb (Capacítate course knowledge base).",
+    "version":  "1.0.0",
+    "author":  {
+                   "name":  "SUEYTAME"
+               }
+}
